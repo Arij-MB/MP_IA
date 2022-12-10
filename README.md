@@ -1,4 +1,4 @@
-# MP_IA
+# MP_IAA
 
 Objectif : Construire un modèle d’apprentissage profond pour la classification des images de mammographie en trois catégories (Normal, benign, malignant). Nous aurons une interface graphique à partir de laquelle nous pourrons tester différentes images pour savoir la pertinence du système.
 
